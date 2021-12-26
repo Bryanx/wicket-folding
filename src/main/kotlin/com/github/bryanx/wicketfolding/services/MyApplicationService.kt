@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bryanx.wicketfolding.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bryanx.wicketfolding.MyBundle
 
 class MyApplicationService {
 
